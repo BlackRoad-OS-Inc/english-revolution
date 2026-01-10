@@ -220,6 +220,17 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 💡 **The Breakup Email** - Final follow-up that gets most replies (ironically!)
 - 📧 **THE REVOLUTION** - Email has FORMULAS! Subject lines = patterns! $0 > $2,000!
 
+### 18. **emoji_presentation_english.py** - $10,000 Public Speaking DESTROYED! (~1,310 lines) 🔥 STAGE MASTERY!
+- 🎤 **Presentation Structure** - Hook + Body + Close (the formula ALL TED Talks use!)
+- 🪝 **5 Hook Formulas** - Grab attention in 30 seconds (statistic, question, story, bold, demo!)
+- 📖 **Storytelling Mastery** - Setup→Conflict→Climax→Resolution→Lesson (engage emotionally!)
+- ❓ **Q&A Mastery** - Listen→Pause→Rephrase→Answer→Check (handle ANY question!)
+- 🎭 **Body Language Secrets** - Words 7%, Tone 38%, Body 55%! (command the room!)
+- 😰 **Conquer Nerves** - Reframe as energy! (practice + breathing + power poses work!)
+- 📊 **Slide Design** - One idea per slide, 6 words max, visuals > text!
+- 💻 **Virtual Presenting** - Zoom/Teams mastery (look at camera, energy up 20%!)
+- 🎤 **THE REVOLUTION** - Public speaking = FORMULAS! TED Talks use structure! $0 > $10,000!
+
 ---
 
 ## 🚀 QUICK START
@@ -277,13 +288,16 @@ python3 emoji_academic_english.py
 # MASTER email communication (cold emails, follow-ups, professional etiquette!)
 python3 emoji_email_mastery.py
 
+# MASTER presentations & public speaking (TED Talk formulas, Q&A, slides!)
+python3 emoji_presentation_english.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 17 complete systems (16 Python modules + 1 interactive HTML demo), 11,735 lines of educational code, $0 cost.
+**Total Content:** 18 complete systems (17 Python modules + 1 interactive HTML demo), 13,048 lines of educational code, $0 cost.
 
 ---
 
@@ -469,8 +483,9 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Interview coaching + Resume:** $800-2,800+ ($500-2,000 coaching + $300-800 resume)
 - **Academic writing + University prep:** $1,000-5,000+ (courses + prep programs)
 - **Email mastery courses:** $500-2,000+ (copywriting + cold email + etiquette)
+- **Public speaking + Presentation training:** $1,000-15,000+ (courses + TED coaching + executive presence)
 
-**Total value destroyed:** $8,000 - $28,000+
+**Total value destroyed:** $9,000 - $43,000+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
