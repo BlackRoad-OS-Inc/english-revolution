@@ -269,7 +269,7 @@ open interactive-demo.html
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 16 complete systems (15 Python modules + 1 interactive HTML demo), 10,993 lines of educational code, $0 cost.
+**Total Content:** 16 complete systems (15 Python modules + 1 interactive HTML demo), 10,353 lines of educational code, $0 cost.
 
 ---
 
