@@ -253,6 +253,17 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 📧 **Follow-Up Scripts** - 24hr follow-up, reconnection after months/years, value-first messages!
 - 🤝 **THE REVOLUTION** - Networking = GENUINE RELATIONSHIPS! Quality > Quantity! $0 > $15,000!
 
+### 21. **emoji_leadership_english.py** - $50,000 Executive Coaching EXPOSED! (~1,060 lines) 🔥 LEAD WITH IMPACT!
+- 💬 **Giving Feedback** - SBI Model (Situation+Behavior+Impact), 5:1 ratio (5 positive:1 critical!)
+- 🔥 **Motivating Teams** - Autonomy+Mastery+Purpose (intrinsic > extrinsic!), catch people doing right!
+- 😬 **Difficult Conversations** - Firing (direct first sentence!), performance issues, conflict mediation, bad news!
+- 📋 **Delegation Mastery** - 7-step process, 5 authority levels, 80% rule (delegate if 80% as good!)
+- 👔 **Executive Presence** - 3 pillars (Gravitas+Communication+Appearance), command respect (not demand!)
+- 🎯 **Meeting Mastery** - Speak early, build on others, strategic questions, disagree constructively!
+- 💪 **Leadership vs Management** - Leaders inspire, managers execute (both needed!)
+- 📊 **Bottom-Line First** - Conclusion first, then supporting details (exec communication!)
+- 👔 **THE REVOLUTION** - Leadership = FRAMEWORKS! SBI works! Delegate outcomes! $0 > $50,000!
+
 ---
 
 ## 🚀 QUICK START
@@ -319,13 +330,16 @@ python3 emoji_negotiation_english.py
 # MASTER networking & relationships (LinkedIn, small talk, connections!)
 python3 emoji_networking_english.py
 
+# MASTER leadership communication (feedback, delegation, executive presence!)
+python3 emoji_leadership_english.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 20 complete systems (19 Python modules + 1 interactive HTML demo), 15,262 lines of educational code, $0 cost.
+**Total Content:** 21 complete systems (20 Python modules + 1 interactive HTML demo), 16,320 lines of educational code, $0 cost.
 
 ---
 
@@ -514,8 +528,9 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Public speaking + Presentation training:** $1,000-15,000+ (courses + TED coaching + executive presence)
 - **Negotiation + Persuasion training:** $2,000-30,000+ (exec coaching + sales training + conflict resolution)
 - **Networking + Relationship courses:** $1,000-15,000+ (networking coaching + LinkedIn optimization + personal branding)
+- **Leadership + Executive coaching:** $5,000-50,000+ (leadership development + exec coaching + communication training)
 
-**Total value destroyed:** $12,000 - $88,000+
+**Total value destroyed:** $17,000 - $138,000+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
