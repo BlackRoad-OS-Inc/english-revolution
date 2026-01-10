@@ -108,6 +108,25 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 📱 **Mobile Responsive** - Works on any device
 - 🌐 **No Backend** - Pure client-side, works offline
 
+### 8. **emoji_cultural_english.py** - US/UK/AU/CA Differences (~700 lines) 🔥 NEW!
+- 🌍 **Vocabulary Differences** - pants/trousers, chips/crisps, cookies/biscuits
+- 📝 **Spelling Differences** - color/colour, center/centre, realize/realise
+- 🗣️ **Pronunciation Differences** - R sounds, T sounds, tomato/tomahto
+- 🤝 **Cultural Etiquette** - Greetings, dining, tipping, communication styles
+- ⚠️ **Dangerous Phrases** - "I'm pissed" (angry vs drunk!), pants, fanny
+- 📅 **Date/Time Formats** - MM/DD vs DD/MM confusion solved
+- 🇺🇸🇬🇧🇦🇺🇨🇦 **All English Countries** - Know what to say WHERE!
+
+### 9. **emoji_social_media_english.py** - Master the Internet! (~800 lines) 🔥 NEW!
+- 📸 **Instagram** - OOTD, GRWM, IYKYK, hashtag strategy
+- 🐦 **Twitter/X** - Ratio, threads, chronically online, Twitter culture
+- 📱 **TikTok** - Slay, bussin, understood the assignment, FYP
+- 💬 **Discord** - Server, ping, lurker, based, o7
+- 🤖 **Reddit** - TL;DR, ELI5, karma, cake day, AMA
+- 🔥 **Gen Z/Alpha Slang** - Rizz, sigma, delulu, mid, no cap
+- 😊 **Emoji Meanings** - What 💀🧢🔥✨ REALLY mean on social media
+- 🎯 **Stay Current** - Latest 2024-2026 internet language
+
 ---
 
 ## 🚀 QUICK START
@@ -135,13 +154,19 @@ python3 emoji_business_english.py
 # Learn situation-specific English (travel, tech, medical)
 python3 emoji_specialized_english.py
 
+# Learn cultural differences (US vs UK vs AU vs CA)
+python3 emoji_cultural_english.py
+
+# Master social media English (Instagram, TikTok, Twitter, Discord, Reddit)
+python3 emoji_social_media_english.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 7 complete systems (6 Python modules + 1 interactive HTML demo), 3,800+ lines of educational code, $0 cost.
+**Total Content:** 9 complete systems (8 Python modules + 1 interactive HTML demo), 6,200+ lines of educational code, $0 cost.
 
 ---
 
