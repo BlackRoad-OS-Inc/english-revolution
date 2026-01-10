@@ -162,7 +162,7 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 💡 **THE BREAKTHROUGH** - Written ≠ Spoken! "Do you want to" = "Juwanna"!
 - 🗣️ **NO OTHER COURSE** - First to explain WHY natives sound different!
 
-### 13. **emoji_grammar_mistakes.py** - Fix Errors FOREVER! (~750 lines) 🔥 ESSENTIAL!
+### 13. **emoji_grammar_mistakes.py** - Fix Errors FOREVER! (~750 lines) 🔥
 - 📰 **Article Mistakes** - a, an, the, or nothing? (Patterns revealed!)
 - ⏰ **Verb Tense Errors** - Since/for, past/perfect (time decoded!)
 - 📍 **Preposition Confusion** - in/on/at (visual system: 📍point 📄surface 📦inside)
@@ -174,6 +174,18 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 📊 **Comparatives** - "better" not "more better" (no double comparatives!)
 - 🔢 **Countable/Uncountable** - much money, many apples (count rules!)
 - 💡 **THE REVOLUTION** - Patterns > Rules! Understanding WHY > Being marked wrong!
+
+### 14. **emoji_test_preparation.py** - DESTROY Test Prep Industry! (~700 lines) 🔥 EXPLOSIVE!
+- 📝 **Test Overview** - TOEFL vs IELTS vs Cambridge (which to take?)
+- 🪤 **Common Traps** - Paraphrasing, distractors, extremes (don't fall!)
+- ⏰ **Time Management** - Every minute planned (reading, writing, listening)
+- 📖 **Reading Strategies** - Skim, scan, question types (maximize score!)
+- 👂 **Listening Strategies** - Predict, keywords, note-taking (catch everything!)
+- ✍️ **Writing Strategies** - Structure, linking, paraphrasing (essay formula!)
+- 🗣️ **Speaking Strategies** - Extend answers, fillers, self-correct (sound natural!)
+- 📚 **Vocabulary Shortcuts** - Word families, prefixes/suffixes (learn smarter!)
+- 🎯 **Test Day Tips** - Prep, energy, emergencies (maximize performance!)
+- 💥 **THE EXPOSÉ** - Tests are PREDICTABLE! Patterns revealed! $0 > $3,000!
 
 ---
 
@@ -220,13 +232,16 @@ python3 emoji_listening_comprehension.py
 # Fix grammar mistakes FOREVER (articles, tenses, prepositions!)
 python3 emoji_grammar_mistakes.py
 
+# ACE English tests (TOEFL, IELTS, Cambridge decoded!)
+python3 emoji_test_preparation.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 13 complete systems (12 Python modules + 1 interactive HTML demo), 8,716 lines of educational code, $0 cost.
+**Total Content:** 14 complete systems (13 Python modules + 1 interactive HTML demo), 9,432 lines of educational code, $0 cost.
 
 ---
 
@@ -408,8 +423,9 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Conversation coaching:** $500+ (or $100/hour private)
 - **Listening comprehension:** $400+ (or $100/hour private)
 - **Grammar correction course:** $300-500+ (or $100/hour private)
+- **Test preparation (TOEFL/IELTS):** $500-2,000+ (or $150/hour private)
 
-**Total value destroyed:** $5,200 - $16,000+
+**Total value destroyed:** $5,700 - $18,000+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
