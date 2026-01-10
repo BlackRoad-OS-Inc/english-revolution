@@ -315,6 +315,15 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 📐 **Formula-Based Learning** - Every grammar structure = clear formula! IF + PRESENT, WILL + VERB (predictable patterns!)
 - 🎯 **THE REVOLUTION** - Advanced grammar = FORMULAS! Conditionals = patterns! Modal perfects = regret/deduction system! $0 > $5,000!
 
+### 27. **emoji_reading_mastery.py** - $6,500 Reading Courses EXPOSED! (~1,141 lines) 🔥 READ 3× FASTER!
+- 📖 **Active Reading Strategies** - Preview, predict, question, annotate, summarize (understand on first read! 80% retention!)
+- ⚡ **Speed Reading Truth** - SCAM exposed! Real techniques: reduce regression, expand fixations, match speed to purpose! 1.5-2× faster realistically!
+- 🧠 **Critical Reading** - Evaluate arguments, spot bias/fallacies (ad hominem, straw man, false dichotomy), identify assumptions! Don't get fooled!
+- 📚 **Reading Different Texts** - Different strategies for textbooks (slow, annotate), news (skim main points), emails (scan action items), research papers (abstract→conclusion first!), fiction (visualize, enjoy!), technical (jump to relevant sections!)
+- 📖 **SQ3R Method** - Proven study system: Survey, Question, Read, Recite, Review! 70-80% retention vs 20-30% passive reading!
+- 📚 **Vocabulary from Context** - Learn words while reading! 5 context clue types: definition, synonym, antonym, example, inference! 80% accuracy! 1,000+ words/year!
+- 🎯 **THE REVOLUTION** - Reading = STRATEGIES + PRACTICE! Not magic tricks! Speed reading 1,000+ wpm = SCAM! Real improvement 1.5-2×! $0 > $6,500!
+
 ---
 
 ## 🚀 QUICK START
@@ -399,13 +408,16 @@ python3 emoji_vocabulary_mastery.py
 # MASTER advanced grammar (conditionals, subjunctive, perfect tenses, modals, passive!)
 python3 emoji_advanced_grammar.py
 
+# MASTER reading (comprehension, speed reading, critical thinking, SQ3R method!)
+python3 emoji_reading_mastery.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 26 complete systems (25 Python modules + 1 interactive HTML demo), 22,353 lines of educational code, $0 cost.
+**Total Content:** 27 complete systems (26 Python modules + 1 interactive HTML demo), 23,494 lines of educational code, $0 cost.
 
 ---
 
@@ -600,8 +612,9 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Accent reduction + Pronunciation:** $2,500-8,000+ (accent coaching + speech therapy + pronunciation courses)
 - **Vocabulary + Memory training:** $600-5,500+ (vocab apps $100-500/yr + courses $500-2,000 + GRE/SAT prep $1,000-3,000)
 - **Advanced grammar courses:** $500-5,000+ (conditionals + subjunctive + perfect tenses + modal perfects + passive voice mastery)
+- **Reading + Speed reading + Critical thinking:** $1,000-6,500+ (speed reading $200-2,000 + comprehension $300-2,000 + critical thinking $500-5,000)
 
-**Total value destroyed:** $30,600 - $191,500+
+**Total value destroyed:** $31,600 - $198,000+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
