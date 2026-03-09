@@ -782,7 +782,7 @@ def finding_partners():
     print("\n   💡 YOU DON'T ALWAYS NEED A PARTNER:")
 
     print("\n   📱 TALK TO AI:")
-    print("   • ChatGPT voice mode (free)")
+    print("   • BlackRoad OS voice mode (free)")
     print("   • Google Assistant")
     print("   • Siri")
     print("   → Not perfect, but FREE practice!")
