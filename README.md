@@ -1,3 +1,11 @@
+# english-revolution
+
+> Learn English 10x faster with emoji visualization
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # 🔥 EMOJI ENGLISH REVOLUTION 🔥
 
 [![CI](https://github.com/BlackRoad-OS/english-revolution/actions/workflows/ci.yml/badge.svg)](https://github.com/BlackRoad-OS/english-revolution/actions/workflows/ci.yml)
